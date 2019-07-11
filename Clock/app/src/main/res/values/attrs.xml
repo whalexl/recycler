@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="wb_pointer_end_length" format="dimension"/>
+    <attr name="wb_hour_pointer_color" format="color"/>
+    <attr name="wb_minute_pointer_color" format="color"/>
+    <attr name="wb_second_pointer_color" format="color"/>
+</resources>
